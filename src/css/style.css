@@ -25,6 +25,13 @@ body {
   #home-section .fa {
     color: #008ed6;
     background: #fff;
-    padding: 6px;
+    padding: 8px;
     border-radius: 5px;
-    fonr-size: 50px; }
+    fonr-size: 30px; }
+
+#explore-section .fa {
+  color: #fff;
+  background: #333;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px; }
